@@ -1,5 +1,7 @@
+<picture>
+<img src="https://github.com/geeky-sambhav/hilex/assets/83087385/e43735d6-dd36-4089-8ff5-84d834e8e9f4">
+</picture>
 
-![image](https://github.com/geeky-sambhav/hilex/assets/83087385/7018fa20-a6ef-45b5-a70f-aeda3ce4fa5f)
 <h1 align="center">🎓 NexaLearn: Reimagining Education - Where AI Meets Human Expertise 🚀</h1>
 
 
